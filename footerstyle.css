@@ -1,0 +1,254 @@
+/* Last section */
+.lr-sec
+{
+  width:100%;
+  height: 533px;
+  background-color:#EDEBE9;
+
+}
+.lr-div
+{
+  width: 1269px;
+  height: 372px;
+  
+  
+}
+.menu-title3
+{
+  color: #1e3932;
+  font-family:  Helvetica, sans-serif;
+  font-size: 24px;
+  font-weight: 800;
+  
+  position: absolute;
+  top: 1115px;
+  left: 105px;
+  
+}
+.menu-title-mini2
+{
+ 
+  color: #00754a;
+  display: inline;
+  font-weight: 500;
+  position: absolute;
+  right: 100px;
+  top: 1120px;
+  font-size: 12px;
+  cursor: pointer;
+}
+.lr-img
+{
+  width: 1269px;
+  height: 372px;
+  object-fit: cover;
+  object-position: center;
+  position: absolute;
+  top: 1200px;
+  left: 130px;
+  border-radius: 8px;
+  cursor: pointer;
+}
+.lr-img-shdw
+{
+  background-color: black;
+  width: 1269px;
+  height: 372px;
+  object-fit: cover;
+  object-position: center;
+  position: absolute;
+  top: 1200px;
+  left: 130px;
+  border-radius: 8px;
+  cursor: pointer;
+  opacity: 0;
+  cursor: pointer;
+}
+
+.shdw-txt
+{
+  color: white;
+  opacity: 1;
+  position: absolute;
+  top: 1350px;
+  left: 180px;
+  font-size: 35px;
+  cursor: pointer;
+}
+.shdw-txt2
+{
+  color: white;
+  opacity: 1;
+  position: absolute;
+  top: 1435px;
+  left: 180px;
+  font-size: 15px;
+  cursor: pointer;
+}
+.shdw-btn
+{
+  color: white;
+  opacity: 1;
+  position: absolute;
+  top: 1510px;
+  left: 180px;
+  font-size: 15px;
+}
+.shdw-btn button
+{
+  width: 200px;
+  height: 35px;
+  border-radius: 17px;
+  border: none;
+  cursor: pointer;
+}
+.shdw-btn2
+{
+ 
+  position: absolute;
+  top: 1210px;
+  left: 160px;
+  font-size: 15px;
+}
+.shdw-btn2 button
+{
+  color: #096;
+  font-family:  Helvetica, sans-serif;
+  font-size: 9px;
+  height: 15px;
+  border-radius: 3px;
+  border: none;
+  cursor: pointer;
+  font-weight: 500;
+}
+.lr-img-shdw:hover
+{
+  opacity: 0.4;
+  transition: 0.01s;
+}
+
+/* footer */
+.last
+{
+  width:100%;
+  height: 745px;
+  background-color: #0e382c;
+  display: flex;
+  flex-direction: row;
+  cursor: pointer;
+}
+.footer-box
+{
+  margin-left: 125px;
+  margin-top: 35px;
+  display: flex;
+  flex-direction: row;
+}
+.log-sb
+{
+  margin-top: 90px;
+}
+
+.footer-sections
+{
+  margin-top: 100px;
+  margin-left: 200px;
+  display: flex;
+  flex-direction: row;
+  column-gap: 90px;
+  font-size: 13px;
+  cursor: pointer;
+}
+.heading
+{
+  font-size: 20px;
+  font-weight: 500;
+  color: white;
+  
+}
+.footer-sec1
+{
+  display: flex;
+  flex-direction: column;
+  row-gap: 30px;
+  color: white;
+}
+.footer-sec2
+{
+  display: flex;
+  flex-direction: column;
+  row-gap: 30px;
+  color: white;
+}
+.footer-sec3
+{
+  display: flex;
+  flex-direction: column;
+  row-gap: 30px;
+  color: white;
+  width: 170px;
+}
+.heading2
+{
+  font-size: 20px;
+  font-weight: 500;
+  color: white;
+ 
+
+}
+.footer-sec4
+{
+  margin-left: 30px;
+  margin-top: 85px;
+  row-gap: 30px;
+  color: white;
+
+}
+.social
+{
+  margin-right: 20px
+}
+.store
+{
+  margin-left: 50px;
+  margin-top: 100px;
+}
+.line
+{
+  color: rgb(255, 255, 255);
+  font-size: 10px;
+  z-index: 3;
+  margin-bottom: 30px;
+  margin-left: 30px;
+  position: absolute;
+  bottom: -1600px;
+  left: 100px;
+  
+}
+.line-body
+{
+  width:80%;
+  height: 133px;
+  background-color: #0e382c;
+}
+.ext-foot1
+{
+ font-size: 18px;
+ color: rgb(255, 255, 255);
+ position: absolute;
+ bottom: -1620px;
+ left: 130px;
+ cursor: pointer;
+}
+.ext-txt
+{
+  font-size: 12px;
+}
+.ext-foot2
+{
+  font-size: 9px;
+ color: rgb(255, 255, 255);
+ position: absolute;
+ bottom: -1600px;
+ right: 110px;
+}
